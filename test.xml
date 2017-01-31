@@ -1,0 +1,10 @@
+<collection about = "Personal Info">
+	<element ele = "Person1">
+		<name> Pratap </name>
+		<age> 27 </age>
+	</element>
+	<element>
+		<name> Rohan </name>
+		<age> 28 </age>
+	</element>
+</collection>
